@@ -1,0 +1,22 @@
+** FRONTEND **
+
+=> libraries
+tailwindcss, shadcnui
+
+=> packages
+axios, react-router-dom
+
+
+
+
+
+
+
+
+** BACKEND **
+
+=> Packages
+bcryptjs cloudinary cors express mongoose dotenv jsonwebtoken multer
+
+dev-dependency
+nodemon
